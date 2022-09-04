@@ -48,4 +48,4 @@
 [twitter]: https://twitter.com/JxSoham
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/
-[youtube]
+[youtube]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
