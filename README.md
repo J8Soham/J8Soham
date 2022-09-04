@@ -1,6 +1,7 @@
 # Hello internet, I'm Soham Jain 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prantantheman?color=0F91D2&logo=twitter&logoColor=66C5F4&style=plastic)][twitter]                 ![Commits](https://img.shields.io/github/commit-activity/w/prantantheman/-Final--HiddenGems?style=plastic)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/JxSoham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]                 ![Commits](https://img.shields.io/github/commit-activity/w/prantantheman/-Final--HiddenGems?style=plastic)
 
 
 
