@@ -13,34 +13,36 @@
 - 🎉 Fun fact: I love to listen to music ([Khantrast]), compete in modelUN, ICDC, hackathons, and code. 
 
 
+<br />
+
+
+### 👀 Looks really Good
+
+[![Sohams's GitHub stats](https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham)](https://github.com/anuraghazra/github-readme-stats)
+            
+<br />
+<br />
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+          
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+          
+
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/PranTanTheMan)
 
-
-<br />
-<br />
-
-### 📈 Stats and Gains
-
-[![Sohams's GitHub stats](https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham)](https://github.com/anuraghazra/github-readme-stats)
-            
-<br />
 
 <br />
 <br />
