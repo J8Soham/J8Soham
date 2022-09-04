@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning to build web apps, and applications. 
 - 👯 I’m looking to build more projects with people. (Send me a mail!) 
 - ❤️ Subsribe to My Youtube channel. 
-- 🎉 Fun fact: I love to listen to music ([youtube]), compete in modelUN, ICDC, hackathons, and code. 
+- 🎉 Fun fact: I love to listen to music ([Khantrast]), compete in modelUN, ICDC, hackathons, and code. 
 
 
 ### Languages and Tools:
@@ -46,6 +46,6 @@
 <br />
 
 [twitter]: https://twitter.com/JxSoham
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/
-[youtube]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
+[instagram]: https://www.instagram.com/sj.allias/
+[linkedin]: https://www.linkedin.com/in/sohamjain-me/
+[Khantrast]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
