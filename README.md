@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hello internet, I'm Soham Jain
+[![Twitter Follow](https://img.shields.io/badge/follow-%40JxSoham-brightgreen)][twitter]
 
 <!--
 **JxSoham/JxSoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
