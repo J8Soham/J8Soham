@@ -1,5 +1,5 @@
 ### 👋 Hello internet, I'm Soham Jain
-[![Twitter Follow](https://img.shields.io/twitter/follow/JxSoham?style=social)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/JxSoham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]
 
 <!--
 **JxSoham/JxSoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
