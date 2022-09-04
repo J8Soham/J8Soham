@@ -1,7 +1,7 @@
 # Hello internet, I'm Soham Jain 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JxSoham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]                 ![Commits](https://img.shields.io/github/commit-activity/w/prantantheman/-Final--HiddenGems?style=plastic)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JxSoham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]
 
 
 
@@ -60,6 +60,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/PranTanTheMan
-[instagram]: https://www.instagram.com/itsyaboipranith/?hl=en
-[linkedin]: https://www.linkedin.com/in/pranith-molakalapalli-b51655135/
+[twitter]: https://twitter.com/JxSoham
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/
