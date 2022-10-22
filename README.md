@@ -45,7 +45,7 @@
 
 <details align="center"><summary> Projects </summary><blockquote>
 
-<details align="center"><summary> RxThirtheen </summary><blockquote>
+<details><summary> RxThirtheen </summary><blockquote>
 
 <details><summary> On-Going </summary><blockquote>
 </blockquote></details>
