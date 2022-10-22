@@ -42,29 +42,12 @@
    </p>
 </details>
 
-
-<dialog id="favDialog">
+<dialog open>
+  <p>Greetings, one and all!</p>
   <form method="dialog">
-    <p>
-      <label>Favorite animal:
-        <select>
-          <option value="default">Choose…</option>
-          <option>Brine shrimp</option>
-          <option>Red panda</option>
-          <option>Spider monkey</option>
-        </select>
-      </label>
-    </p>
-    <div>
-      <button value="cancel">Cancel</button>
-      <button id="confirmBtn" value="default">Confirm</button>
-    </div>
+    <button>OK</button>
   </form>
 </dialog>
-<p>
-  <button id="updateDetails">Update details</button>
-</p>
-<output></output>
 
 
 <br />
