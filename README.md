@@ -27,10 +27,9 @@
 </details>
           
 <dialog open>
-  <p>Greetings, one and all!</p>
-  <form method="dialog">
-    <button>OK</button>
-  </form>
+   <form method="dialog">
+      <button>Press</button>
+   </form>
 </dialog>
 
 
