@@ -19,7 +19,7 @@
    <p align="center">
      <br>
      <img src="https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple"></img>
-     <a href="https://github.com/JxSoham" target="_blank"><img alt="JxSoham" src="[![Commits Badge](https://badges.pufler.dev/commits/monthly/JxSoham)](https://badges.pufler.dev)"/></a>
+     <a href="https://github.com/JxSoham" target="_blank"><img alt="JxSoham" src="https://badges.pufler.dev/commits/monthly/JxSoham"/></a>
      <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
@@ -39,9 +39,6 @@
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;" />
-          
-
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/PranTanTheMan)
           
 
@@ -52,10 +49,12 @@
 [instagram]: https://www.instagram.com/sj.allias/
 [linkedin]: https://www.linkedin.com/in/sohamjain-me/
 [Khantrast]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
+[gmail]: iamsohamjain@gmail.com
 
 
 
-\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\?
+
 <a href="https://github.com/JxSoham?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/JxSoham?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/JxSoham?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
