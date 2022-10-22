@@ -30,7 +30,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JxSoham)](https://badges.pufler.dev)
 
 
-<language align="left">
+<details align="left">
    <summary>Languages</summary>
    <p align="left">
       <br>
@@ -40,7 +40,7 @@
       <a href="https://github.com/JxSoham?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/JxSoham?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
    </p>
-</language>
+</details>
 
 
 
