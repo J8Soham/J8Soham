@@ -32,7 +32,6 @@
 
 <details align="left">
    <summary>Languages</summary>
-   <summary>killer</summary>
    <p align="left">
       <br>
       <a href="https://github.com/JxSoham?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
@@ -43,6 +42,29 @@
    </p>
 </details>
 
+
+<dialog id="favDialog">
+  <form method="dialog">
+    <p>
+      <label>Favorite animal:
+        <select>
+          <option value="default">Choose…</option>
+          <option>Brine shrimp</option>
+          <option>Red panda</option>
+          <option>Spider monkey</option>
+        </select>
+      </label>
+    </p>
+    <div>
+      <button value="cancel">Cancel</button>
+      <button id="confirmBtn" value="default">Confirm</button>
+    </div>
+  </form>
+</dialog>
+<p>
+  <button id="updateDetails">Update details</button>
+</p>
+<output></output>
 
 
 <br />
