@@ -1,3 +1,4 @@
+
 # Hello internet, I'm Soham Jain 👋
 
 
@@ -25,25 +26,9 @@
      <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
-          
-<dialog id="favDialog">
-  <form method="dialog">
-    <p>
-      <label>Favorite animal:
-        <select>
-          <option value="default">Choose…</option>
-          <option>Brine shrimp</option>
-          <option>Red panda</option>
-          <option>Spider monkey</option>
-        </select>
-      </label>
-    </p>
-    <div>
-      <button value="cancel">Cancel</button>
-      <button id="confirmBtn" value="default">Confirm</button>
-    </div>
-  </form>
-</dialog>
+
+import '@github/details-dialog-element'
+<script type="module" src="./node_modules/@github/details-dialog-element/dist/index.js">
 
 
 <details align="left">
