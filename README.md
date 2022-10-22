@@ -43,56 +43,35 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
 
 
-## Projects
+## My Work
 
 <details><summary> Projects </summary><blockquote>
 
-<details><summary> Rx13 </summary><blockquote>
+<details><summary> RxThirtheen </summary><blockquote>
 
 <details><summary> On-Going </summary><blockquote>
 </blockquote></details>
-~~~
-file1
-file2
-file3
-~~~
+<details><summary> Finished </summary><blockquote>
 </blockquote></details>
 
-<details><summary> boot </summary><blockquote>
-
-x
-y
-z
 </blockquote></details>
 
-<details><summary> dev </summary><blockquote>
-
-p
-q
-r
+<details><summary> Learning </summary><blockquote>
 </blockquote></details>
 
-<details><summary> etc </summary><blockquote>
-
-e
-t
-c
+<details><summary> World </summary><blockquote>
+<details><summary> Projects </summary><blockquote>
+</blockquote></details>
+</blockquote></details>
 </blockquote></details>
 
-<details><summary> home </summary><blockquote>
-
-me
-you
-everyone
+<details><summary> Hobbies </summary><blockquote>
+<details><summary> Youtube </summary><blockquote>
 </blockquote></details>
-
-<details><summary> lib </summary><blockquote>
-
-lib
-er
-ate
+<details><summary> Blogs </summary><blockquote>
 </blockquote></details>
-
+<details><summary> Podcasts </summary><blockquote>
+</blockquote></details>
 </blockquote></details>
 
 <br />
