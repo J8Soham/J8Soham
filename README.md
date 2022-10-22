@@ -3,7 +3,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JxSoham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]
-[![Gmail Send]](mailto:iamsohamjain@gmail.com)[gmail]
+[![Gmail Send](https://img.shields.io/gmail/follow/JxSoham?color=red&logo=gmail&logoColor=red&style=plastic)](mailto:iamsohamjain@gmail.com)[gmail]
 
 
 ## I'm a High School student, intrested in all things technology. 
