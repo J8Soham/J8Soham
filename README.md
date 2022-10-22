@@ -49,7 +49,7 @@
 
 
 ## Details
-<details align="center">
+<details>
    <summary>Summary</summary>
    <p align="center">
      <br>
@@ -58,7 +58,7 @@
      <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
-<details align="center">
+<details>
    <summary>Languages</summary>
    <p align="center">
       <br>
@@ -77,7 +77,7 @@
   </p>
 </samp>
 
-<p> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
 
 
 
