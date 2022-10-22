@@ -16,19 +16,19 @@
 <br/>
 
 ## Details
-<details align="left">
+<details align="center">
    <summary>Summary</summary>
    <p align="center">
      <br>
-     <img src="https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple"></img> <br>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham"></img>
+     <img src="https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple"></img>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham"></img><br><br>
      <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
 
-<details align="left">
+<details align="center">
    <summary>Languages</summary>
-   <p align="left">
+   <p align="center">
       <br>
       <a href="https://github.com/JxSoham?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
       <a href="https://github.com/JxSoham?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
@@ -38,14 +38,14 @@
    </p>
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
 
 
 ## My Work
 
-<details><summary> Projects </summary><blockquote>
+<details align="center"><summary> Projects </summary><blockquote>
 
-<details><summary> RxThirtheen </summary><blockquote>
+<details align="center"><summary> RxThirtheen </summary><blockquote>
 
 <details><summary> On-Going </summary><blockquote>
 </blockquote></details>
