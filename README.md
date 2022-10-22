@@ -19,27 +19,10 @@
    <p align="center">
      <br>
      <img src="https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple"></img>
-     <a href="https://github.com/JxSoham" target="_blank"><img alt="JxSoham" src="https://badges.pufler.dev/commits/monthly/JxSoham"/></a>
-     <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
+     <a href="https://github.com/JxSoham" target="_blank"><img alt="JxSoham" src="https://badges.pufler.dev/commits/yearly/JxSoham"/></a>
+     <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
-
-
-### Languages & Tools (With moderate experience):
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/PranTanTheMan)
           
 
 <br />
