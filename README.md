@@ -45,7 +45,20 @@
 
 ## Nested
 
+<details><summary> root </summary><blockquote>
+
+<details><summary> bin </summary><blockquote>
+
+<details><summary> nest1 </summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+</blockquote></details>
 <details><summary> nest2 </summary><blockquote>
+
 a
 b
 c
