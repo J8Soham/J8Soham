@@ -19,7 +19,7 @@
    <p align="center">
      <br>
      <img src="https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple"></img>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham)](https://github.com/anuraghazra/github-readme-stats"></img>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham"></img>
      <br>
      <br>
      <a href="https://github.com/JxSoham/JxSoham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/JxSoham/JxSoham?label=profile%20updated&style=flat-square"></a>
