@@ -43,27 +43,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
 
 
-## Nested
+## Projects
 
-<details><summary> root </summary><blockquote>
+<details><summary> Projects </summary><blockquote>
 
-<details><summary> bin </summary><blockquote>
+<details><summary> Rx13 </summary><blockquote>
 
-<details><summary> nest1 </summary><blockquote>
-
-~~~
-a
-b
-c
-~~~
+<details><summary> On-Going </summary><blockquote>
 </blockquote></details>
-<details><summary> nest2 </summary><blockquote>
-
-a
-b
-c
-</blockquote></details>
-
 ~~~
 file1
 file2
