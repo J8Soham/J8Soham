@@ -43,7 +43,7 @@
 
 ## My Work
 
-<details align="center"><summary> Projects </summary><blockquote>
+<details><summary> Projects </summary><blockquote>
 
 <details><summary> RxThirtheen </summary><blockquote>
 
