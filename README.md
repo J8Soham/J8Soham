@@ -15,8 +15,9 @@
 
 <br/>
 
+## Details
 <details align="center">
-   <summary>Details</summary>
+   <summary>Summary</summary>
    <p align="center">
      <br>
      <img src="https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple"></img>
@@ -27,7 +28,6 @@
   </p>
 </details>
 
-## Details
 <details align="left">
    <summary>Languages</summary>
    <p align="left">
@@ -45,19 +45,7 @@
 
 ## Nested
 
-<details><summary> root </summary><blockquote>
-
-<details><summary> bin </summary><blockquote>
-
-<details><summary> nest1 </summary><blockquote>
-~~~
-a
-b
-c
-~~~
-</blockquote></details>
 <details><summary> nest2 </summary><blockquote>
-
 a
 b
 c
