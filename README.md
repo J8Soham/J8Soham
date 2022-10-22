@@ -70,6 +70,13 @@
    </p>
 </details>
 
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/JxSoham/JxSoham">JxSoham</a>
+  </p>
+</samp>
+
 <p> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
 
 
