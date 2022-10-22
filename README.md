@@ -27,9 +27,6 @@
   </p>
 </details>
 
-import '@github/details-dialog-element'
-<script type="module" src="./node_modules/@github/details-dialog-element/dist/index.js">
-
 
 <details align="left">
    <summary>Languages</summary>
@@ -43,7 +40,7 @@ import '@github/details-dialog-element'
    </p>
 </details>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JxSoham" alt="JxSoham"> </p>
 
 <br />
 <br />
