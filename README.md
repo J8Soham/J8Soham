@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning to build web apps, and applications. 
 - 👯 I’m looking to build more projects with people. (Send me a mail!) 
 - ❤️ Subsribe to My Youtube channel. 
-- 🎉 Fun fact: I love to listen to music ([Khantrast]), compete in modelUN, ICDC, hackathons, and code. 
+- 🎉 Fun fact: I love to listen to music ([Khantrast]), compete in modelUN, ICDC, hackathons, and codejams. 
 
 <br/>
 
