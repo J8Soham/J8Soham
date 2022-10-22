@@ -26,8 +26,12 @@
   </p>
 </details>
           
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/JxSoham)](https://badges.pufler.dev)
+<dialog open>
+  <p>Greetings, one and all!</p>
+  <form method="dialog">
+    <button>OK</button>
+  </form>
+</dialog>
 
 
 <details align="left">
@@ -42,16 +46,11 @@
    </p>
 </details>
 
-<dialog open>
-  <p>Greetings, one and all!</p>
-  <form method="dialog">
-    <button>OK</button>
-  </form>
-</dialog>
 
 
 <br />
 <br />
+
 
 [twitter]: https://twitter.com/JxSoham
 [instagram]: https://www.instagram.com/sj.allias/
