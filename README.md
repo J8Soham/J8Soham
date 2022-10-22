@@ -26,13 +26,13 @@
       <a href="https://github.com/JxSoham?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/JxSoham?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
       <a href="https://github.com/JxSoham?tab=repositories&language=node.js" target="_blank"><img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <br>
-  [![Sohams's GitHub stats](https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham)](https://github.com/anuraghazra/github-readme-stats)
-               
+  <br>            
   </samp>
   </p>
 </details>
+
+ [![Sohams's GitHub stats](https://github-readme-stats.vercel.app/api?username=JxSoham&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxSoham)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
