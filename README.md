@@ -13,6 +13,8 @@
 - ❤️ Subsribe to My Youtube channel. 
 - 🎉 Fun fact: I love to listen to music ([Khantrast]), compete in modelUN, ICDC, hackathons, and codejams. 
 
+★ Core belief: Desire a need or want that pushes people to grow and wants others to do the same is what changes the world. ★
+
 <br/>
 
 ## My Work
