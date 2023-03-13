@@ -3,7 +3,6 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JkSoham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]
-[![Gmail Send](https://img.shields.io/badge/contact-Gmail-blue)][gmail]
 
 
 ## I'm a High School student, intrested in all things technology. 
@@ -93,4 +92,3 @@
 [instagram]: https://www.instagram.com/sj.allias/
 [linkedin]: https://www.linkedin.com/in/sohamjain-me/
 [Khantrast]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
-[gmail]: iamsohamjain@gmail.com
