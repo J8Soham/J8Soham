@@ -2,7 +2,7 @@
 # Hello internet, I'm Soham Jain 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/J9Soham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/J9Soham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter] -->
 
 
 ## I'm a UCSC student, intrested in all things technology. 
