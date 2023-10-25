@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/J9Soham?color=red&logo=twitter&logoColor=red&style=plastic)][twitter]
 
 
-## I'm a High School student, intrested in all things technology. 
+## I'm a UCSC student, intrested in all things technology. 
 
 - 🌱 I’m currently learning to build web apps, and applications. 
 - 👯 I’m looking to build more projects with people. (Send me a mail!) 
