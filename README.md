@@ -56,7 +56,7 @@
      <br>
      <img src="https://github-readme-stats.vercel.app/api?username=J8Soham&count_private=true&show_icons=true&theme=midnight-purple"></img>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8Soham"></img><br><br>
-     <a href="https://github.com/JkSoham/JkSoham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/J8Soham/J8Soham?label=profile%20updated&style=flat-square"></a>
+     <a href="https://github.com/J8Soham/J8Soham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/J8Soham/J8Soham?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
 <details>
@@ -74,7 +74,7 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/JkSoham/JkSoham">JkSoham</a>
+    From <a href="https://github.com/J8Soham/J8Soham">J8Soham</a>
   </p>
 </samp>
 
@@ -88,7 +88,7 @@
 
 
 
-[twitter]: https://twitter.com/JkSoham
+[twitter]: https://twitter.com/J8Soham
 [instagram]: https://www.instagram.com/sj.allias/
 [linkedin]: https://www.linkedin.com/in/sohamjain-me/
 [Khantrast]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
