@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning to build web apps, and applications. 
 - 👯 I’m looking to build more projects with people. (Send me a mail!) 
 - ❤️ Subsribe to My Youtube channel. 
-- 🎉 Fun fact: I love to listen to music ([Khantrast]), compete in modelUN, ICDC, hackathons, and codejams. 
 
 ★ Core belief: Desire a need or want that pushes people to grow and wants others to do the same is what changes the world. ★
 
@@ -78,7 +77,10 @@
   </p>
 </samp>
 
-<p align="center"> Today's View Count: <img src="https://komarev.com/ghpvc/?username=J8Soham" alt="J8Soham"> </p>
+<p align="center">  
+   Today's View Count:
+   <img src="https://komarev.com/ghpvc/?username=J8Soham" alt="J8Soham">
+</p>
 
 
 
@@ -91,4 +93,3 @@
 [twitter]: https://twitter.com/J8Soham
 [instagram]: https://www.instagram.com/sj.allias/
 [linkedin]: https://www.linkedin.com/in/sohamjain-me/
-[Khantrast]: https://www.youtube.com/channel/UCS9BarWcUeN2XdATWRpI4Dw
