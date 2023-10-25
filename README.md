@@ -78,7 +78,7 @@
   </p>
 </samp>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=J8Soham" alt="J8Soham"> </p>
+<p align="center"> Today's View Count: <img src="https://komarev.com/ghpvc/?username=J8Soham" alt="J8Soham"> </p>
 
 
 
