@@ -1,73 +1,77 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hello internet, I'm Soham Jain 👋
 
-Currently, two official plugins are available:
+## My Work
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<details><summary> Projects </summary><blockquote>
 
-## React Compiler
+<details><summary> RxThirtheen </summary><blockquote>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<details><summary> On-Going </summary><blockquote>
+</blockquote></details>
+<details><summary> Finished </summary><blockquote>
+</blockquote></details>
 
-## Expanding the ESLint configuration
+</blockquote></details>
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+<details><summary> Learning </summary><blockquote>
+</blockquote></details>
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+<details><summary> World </summary><blockquote>
+<details><summary> Projects </summary><blockquote>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+<details><summary> Hobbies </summary><blockquote>
+<details><summary> Youtube </summary><blockquote>
+</blockquote></details>
+<details><summary> Blogs </summary><blockquote>
+</blockquote></details>
+<details><summary> Podcasts </summary><blockquote>
+</blockquote></details>
+</blockquote></details>
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Details
+<details>
+   <summary>Summary</summary>
+   <p align="center">
+     <br>
+     <img src="https://github-readme-stats.vercel.app/api?username=J8Soham&count_private=true&show_icons=true&theme=midnight-purple"></img>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J8Soham"></img><br><br>
+     <a href="https://github.com/J8Soham/J8Soham" target="_blank"><img alt="GitHub Activity" src="https://img.shields.io/github/last-commit/J8Soham/J8Soham?label=profile%20updated&style=flat-square"></a>
+  </p>
+</details>
+<details>
+   <summary>Languages</summary>
+   <p align="center">
+      <br>
+      <a href="https://github.com/J8Soham?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+      <a href="https://github.com/J8Soham?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
+      <a href="https://github.com/J8Soham?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a><br>
+      <a href="https://github.com/J8Soham?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
+      <a href="https://github.com/J8Soham?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+   </p>
+</details>
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/J8Soham/J8Soham">J8Soham</a>
+  </p>
+</samp>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=J8Soham" alt="J8Soham"> </p>
+
+
+
+<br />
+<br />
+
+
+
+
+[instagram]: https://www.instagram.com/sj.allias/
+[linkedin]: https://www.linkedin.com/in/sohamjain-me/
