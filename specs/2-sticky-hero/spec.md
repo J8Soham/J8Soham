@@ -6,11 +6,21 @@
 **Resolves**: #2
 **Input**: User description: "Clear the default Vite+React template content and create a title screen with dummy text underneath using the sticky hero skill."
 
+## Clarifications
+
+### Session 2026-03-27
+
+- Q: What content should the hero card contain? → A: Avatar image, name displayed as a hashtag-style handle, a greeting-style subtitle, and contact/social links.
+- Q: What should the dummy content sections below the hero contain? → A: The real content will be a Pinterest-style masonry grid (images, YouTube thumbnails, GitHub repo cards) — but that is a separate issue. For this feature, use minimal placeholder cards to demonstrate the scroll-reveal effect.
+- Q: What style should the hero greeting subtitle have? → A: Casual, personality-driven (e.g., "hey, i build things") — approachable and authentic, not formal.
+- Q: Which contact/social links on the hero card? → A: GitHub + email + LinkedIn. Email must be obfuscated (not easily scrapable by bots).
+- Q: What level of accessibility support? → A: Basic: semantic HTML, image alt text, keyboard-navigable links, sufficient text contrast.
+
 ## User Scenarios & Testing *(mandatory)*
 
 ### User Story 1 - Clean Landing Experience (Priority: P1)
 
-A visitor navigates to the portfolio site and is greeted with a clean, premium title screen — not the default Vite+React starter page. The title screen displays the site owner's name/identity as a centered hero card, floating against a dark background. The hero card feels intentional and polished, setting the tone for the rest of the site.
+A visitor navigates to the portfolio site and is greeted with a clean, premium title screen — not the default Vite+React starter page. The title screen displays a centered hero card containing a circular avatar image, the owner's hashtag-style handle (e.g., "@j8soham"), a greeting subtitle, and contact/social links — all floating against a dark background. The hero card feels intentional and polished, setting the tone for the rest of the site.
 
 **Why this priority**: The hero is the very first impression. If the visitor sees the default Vite scaffold (counter button, framework logos, "Get started" text), the site feels unfinished and immediately loses credibility.
 
@@ -66,20 +76,22 @@ The title screen and content sections display correctly across desktop, tablet, 
 ### Functional Requirements
 
 - **FR-001**: The application MUST remove all default Vite+React template content (counter component, framework logos, documentation links, social links, "Get started" heading, spacer sections).
-- **FR-002**: The application MUST display a centered hero card containing the site owner's name/handle as the primary title element.
+- **FR-002**: The hero card MUST contain: (a) a circular avatar image, (b) the owner's name displayed as a hashtag-style handle (e.g., "@j8soham"), (c) a greeting-style subtitle line, and (d) contact/social links (e.g., email, GitHub).
 - **FR-003**: The hero card MUST use `position: sticky; top: 0` positioning so it remains visible during scroll.
 - **FR-004**: The hero section MUST occupy the full initial viewport height (`min-height: 100vh`) with the card centered both horizontally and vertically.
 - **FR-005**: The hero card MUST progressively blur and fade as the user scrolls, using CSS `animation-timeline: scroll()` with a JavaScript fallback for unsupported browsers.
 - **FR-006**: Content sections below the hero MUST start invisible and animate into view (fade + slide up) when they enter the viewport via `IntersectionObserver`.
 - **FR-007**: The page MUST use a dark background (`#111`–`#1a1a1a` range) to maximize the depth-of-field blur aesthetic.
-- **FR-008**: The application MUST include at least two dummy content sections below the hero with placeholder descriptive text to demonstrate the scroll reveal effect.
+- **FR-008**: The application MUST include at least two dummy placeholder content cards/sections below the hero to demonstrate the scroll reveal effect. These are temporary stand-ins; the real masonry grid of images, YouTube thumbnails, and GitHub repo cards will be implemented in a separate issue.
 - **FR-009**: The layout MUST be fully responsive across mobile (≤480px), tablet (481–1023px), and desktop (≥1024px) breakpoints.
 - **FR-010**: The hero card MUST be perfectly sharp and fully opaque at scroll position 0 (no blur or fade before the user begins scrolling).
+- **FR-011**: The email link on the hero card MUST be obfuscated to prevent automated scraping (e.g., rendered via JavaScript, encoded, or using a contact form redirect rather than a plain `mailto:` href in the HTML source).
+- **FR-012**: The page MUST meet basic accessibility standards: semantic HTML elements, alt text on images, keyboard-navigable links, and sufficient text contrast against the dark background.
 
 ### Assumptions
 
-- The site owner's name will be used as placeholder text in the hero card. A reasonable default (e.g., "J8Soham" matching the repo name) will be used until the user customizes it.
-- Dummy/placeholder text for the content sections will use brief descriptive paragraphs (lorem-style or thematic) to demonstrate the scroll reveal pattern. These are intentionally temporary.
+- The hero card will use placeholder/default content: a generated or placeholder avatar image, "@j8soham" as the handle, a casual greeting subtitle (e.g., "hey, i build things"), and three links: GitHub, email (obfuscated), and LinkedIn. These are customizable later.
+- Dummy placeholder cards below the hero are intentionally minimal — they exist only to demonstrate the scroll-reveal animation. The real content (Pinterest-style masonry grid with images, YouTube thumbnails, GitHub repo cards) is explicitly out of scope for this feature and will be a separate issue.
 - The dark background applies globally to the page, not just the hero section.
 - The existing Tailwind CSS setup will be retained for general layout styling, while the sticky hero effect uses vanilla CSS as prescribed by the skill.
 
