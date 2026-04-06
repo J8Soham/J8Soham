@@ -1,6 +1,8 @@
 
 # Hello internet, I'm Soham Jain 👋
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=j8soham" alt="GitHub Streak" /></a>
+
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
